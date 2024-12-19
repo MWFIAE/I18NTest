@@ -3,3 +3,6 @@ msgstr "First translation"
 
 msgid "secondKey"
 msgstr "Second string to translate"
+
+msgid "thirdKey"
+msgstr "Third string to translate"
