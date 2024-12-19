@@ -6,3 +6,6 @@ msgstr "first base string"
 
 msgid "secondKey"
 msgstr "second base string"
+
+msgid "thirdKey"
+msgstr "third base string"
