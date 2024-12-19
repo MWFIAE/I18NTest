@@ -2,5 +2,7 @@ msgid ""
 msgstr ""
 
 msgid "myKey"
+msgstr "first base string"
 
 msgid "secondKey"
+msgstr "second base string"
