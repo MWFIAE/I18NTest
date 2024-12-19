@@ -12,9 +12,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 3.14.1\n"
 
-
 msgid "myKey"
 msgstr ""
 
 msgid "secondKey"
 msgstr ""
+
+msgid "thirdKey"
+msgstr "third base string"
