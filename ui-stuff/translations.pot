@@ -1,9 +1,7 @@
 msgid ""
 msgstr ""
 
-# Just a comment to say this is the first string
-#. TRANSLATORS: Should include some kind of indicator that this is the first
-#: source.c:213
+
 msgid "myKey"
 msgstr "Why shouldn't it work?"
 
