@@ -7,10 +7,6 @@ msgstr ""
 msgid "myKey"
 msgstr "first base string"
 
-msgid_plural "test"
-msgstr[0] ""
-msgstr[1] ""
-
 msgid "secondKey"
 msgstr "second base string"
 
