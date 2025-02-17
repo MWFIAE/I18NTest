@@ -5,7 +5,7 @@ msgstr ""
 #. TRANSLATORS: Should include some kind of indicator that this is the first
 #: source.c:213
 msgid "myKey"
-msgstr "other first string"
+msgstr "Why shouldn't it work?"
 
 msgid_plural "plural test"
 msgstr[0] ""
