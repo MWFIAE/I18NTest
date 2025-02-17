@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+
+# Just a comment to say this is the first string
+#. TRANSLATORS: Should include some kind of indicator that this is the first
+#: source.c:213
+msgid "myKey"
+msgstr "other first string"
+
+msgid_plural "plural test"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "noOverlap"
+msgstr "Test"
+
+msgid "noOverlap2"
+msgstr "Second test for no overlap"
