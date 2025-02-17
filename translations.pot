@@ -6,7 +6,8 @@ msgstr ""
 #: source.c:213
 msgid "myKey"
 msgstr "first base string"
-msgid_plural ""
+
+msgid_plural "test"
 msgstr[0] ""
 msgstr[1] ""
 
