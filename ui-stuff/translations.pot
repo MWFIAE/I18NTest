@@ -5,10 +5,6 @@ msgstr ""
 msgid "myKey"
 msgstr "Why shouldn't it work?"
 
-msgid_plural "plural test"
-msgstr[0] ""
-msgstr[1] ""
-
 msgid "noOverlap"
 msgstr "Test"
 
